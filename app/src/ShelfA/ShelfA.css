@@ -1,0 +1,23 @@
+header {
+    background-color: #AB2A19;  /* 22C-5 */
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 900;
+    padding: 20px 200px 20px 0px;
+}
+
+.shelfA-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* 22C-3 */
+.shelfA-container > input {  
+    background-color: #D34735;
+    color: white;
+    width: 50%;
+    margin-top: 20px;
+    padding: 20px 200px 20px 0px;
+    font-size: 20px;
+}
